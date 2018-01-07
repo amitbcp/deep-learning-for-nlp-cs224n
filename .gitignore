@@ -7,6 +7,17 @@
 .idea/**/tasks.xml
 .idea/dictionaries
 
+#Saved Parameters
+*.npy
+*.pickle
+
+#Zip Files
+*.zip
+*.tar.gz
+
+#Datasets
+glove.6B.50d.txt
+
 # Sensitive or high-churn files:
 .idea/**/dataSources/
 .idea/**/dataSources.ids
