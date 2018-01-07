@@ -6,6 +6,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="tensorflow_tutorials" />
     <orderEntry type="module" module-name="Test" />
+    <orderEntry type="module" module-name="assignment2" />
+    <orderEntry type="module" module-name="tensorflow" />
+    <orderEntry type="module" module-name="Test" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="Nosetests" />
