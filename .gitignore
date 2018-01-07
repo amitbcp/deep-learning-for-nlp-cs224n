@@ -10,6 +10,7 @@
 #Saved Parameters
 *.npy
 *.pickle
+*.conll
 
 #Zip Files
 *.zip
