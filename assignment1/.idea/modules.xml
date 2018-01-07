@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../Test/.idea/Test.iml" filepath="$PROJECT_DIR$/../../../Test/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Test/.idea/Test.iml" filepath="$PROJECT_DIR$/../../Test/.idea/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/assignment1.iml" filepath="$PROJECT_DIR$/.idea/assignment1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../tensorflow_tutorials/.idea/tensorflow_tutorials.iml" filepath="$PROJECT_DIR$/../../../tensorflow_tutorials/.idea/tensorflow_tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../assignment2/.idea/assignment2.iml" filepath="$PROJECT_DIR$/../assignment2/.idea/assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tensorflow/.idea/tensorflow.iml" filepath="$PROJECT_DIR$/../../tensorflow/.idea/tensorflow.iml" />
     </modules>
   </component>
 </project>
