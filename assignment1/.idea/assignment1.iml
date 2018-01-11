@@ -9,6 +9,7 @@
     <orderEntry type="module" module-name="assignment2" />
     <orderEntry type="module" module-name="tensorflow" />
     <orderEntry type="module" module-name="Test" />
+    <orderEntry type="module" module-name="tensorflow_tutorials" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="Nosetests" />
