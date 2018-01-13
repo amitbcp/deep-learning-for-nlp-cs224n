@@ -10,6 +10,8 @@
     <orderEntry type="module" module-name="tensorflow" />
     <orderEntry type="module" module-name="Test" />
     <orderEntry type="module" module-name="tensorflow_tutorials" />
+    <orderEntry type="module" module-name="assignment3" />
+    <orderEntry type="module" module-name="cg_text_normalization" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="Nosetests" />

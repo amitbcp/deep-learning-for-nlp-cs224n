@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/../../Test/.idea/Test.iml" filepath="$PROJECT_DIR$/../../Test/.idea/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/assignment1.iml" filepath="$PROJECT_DIR$/.idea/assignment1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../assignment2/.idea/assignment2.iml" filepath="$PROJECT_DIR$/../assignment2/.idea/assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../assignment3/.idea/assignment3.iml" filepath="$PROJECT_DIR$/../assignment3/.idea/assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../AbzoobaWorkspace/cg_text_normalization/.idea/cg_text_normalization.iml" filepath="$PROJECT_DIR$/../../AbzoobaWorkspace/cg_text_normalization/.idea/cg_text_normalization.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../tensorflow/.idea/tensorflow.iml" filepath="$PROJECT_DIR$/../../tensorflow/.idea/tensorflow.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../tensorflow_tutorials/.idea/tensorflow_tutorials.iml" filepath="$PROJECT_DIR$/../../tensorflow_tutorials/.idea/tensorflow_tutorials.iml" />
     </modules>
