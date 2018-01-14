@@ -2,10 +2,8 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="tensorflow_tutorials" />
-    <orderEntry type="module" module-name="Test" />
     <orderEntry type="module" module-name="assignment2" />
     <orderEntry type="module" module-name="tensorflow" />
     <orderEntry type="module" module-name="Test" />
