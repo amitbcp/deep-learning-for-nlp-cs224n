@@ -57,8 +57,6 @@ class ParserModel(Model):
 
         self.input_placeholder = tf.placeholder(tf.int32, shape=(None, Config.n_features))
         self.labels_placeholder = tf.placeholder(tf.float32, shape=(None, Config.n_classes))
-
-
         self.dropout_placeholder = tf.placeholder(tf.float32)
         ### END YOUR CODE
 
