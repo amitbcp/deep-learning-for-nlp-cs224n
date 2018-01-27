@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$/../../AbzoobaWorkspace/cg_text_normalization" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../tensorflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../tensorflow-mnist-tutorial" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../tensorflow_tutorials" vcs="Git" />
   </component>
 </project>

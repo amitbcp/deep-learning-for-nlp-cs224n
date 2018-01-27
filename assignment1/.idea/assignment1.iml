@@ -5,11 +5,11 @@
     <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="assignment2" />
-    <orderEntry type="module" module-name="tensorflow" />
     <orderEntry type="module" module-name="Test" />
     <orderEntry type="module" module-name="tensorflow_tutorials" />
     <orderEntry type="module" module-name="assignment3" />
     <orderEntry type="module" module-name="cg_text_normalization" />
+    <orderEntry type="module" module-name="tensorflow-mnist-tutorial" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="Nosetests" />
