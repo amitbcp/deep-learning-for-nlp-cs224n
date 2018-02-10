@@ -65,7 +65,32 @@ class GRUCell(tf.nn.rnn_cell.RNNCell):
         # be defined elsewhere!
         with tf.variable_scope(scope):
             ### YOUR CODE HERE (~20-30 lines)
-            pass
+            W_r = tf.get_variable("W_r", shape=[self._state_size, self._state_size],
+                                  initializer=tf.contrib.layers.xavier_initializer(),dtype=tf.float32)
+
+            U_r = tf.get_variable("U_r", shape=[self.input_size, self._state_size],
+                                  initializer=tf.contrib.layers.xavier_initializer(),dtype=tf.float32)
+            b_r = tf.get_variable("b_r", shape=[self._state_size], initializer=tf.contrib.layers.xavier_initializer(),dtype=tf.float32)
+
+            W_z = tf.get_variable("W_z", shape=[self._state_size, self._state_size],
+                                  initializer=tf.contrib.layers.xavier_initializer(),dtype=tf.float32)
+
+            U_z = tf.get_variable("U_z", shape=[self.input_size, self._state_size],
+                                  initializer=tf.contrib.layers.xavier_initializer(),dtype=tf.float32)
+            b_z = tf.get_variable("b_z", shape=[self._state_size], initializer=tf.contrib.layers.xavier_initializer(seed=2),dtype=tf.float32)
+
+            W_o = tf.get_variable("W_o", shape=[self._state_size, self._state_size],
+                                  initializer=tf.contrib.layers.xavier_initializer(),dtype=tf.float32)
+
+            U_o = tf.get_variable("U_o", shape=[self.input_size, self._state_size],
+                                  initializer=tf.contrib.layers.xavier_initializer(),dtype=tf.float32)
+            b_o = tf.get_variable("b_o", shape=[self._state_size], initializer=tf.contrib.layers.xavier_initializer(),dtype=tf.float32)
+
+            z_t=tf.nn.sigmoid(tf.matmul(inputs,U_z)+tf.matmul(state,W_z)+b_z) # None(batch Size X State Size()
+            r=tf.nn.sigmoid(tf.matmul(inputs,U_r)+tf.matmul(state,W_r)+b_r)  # None(batch Size X State Size()
+            o_t=tf.nn.tanh(tf.matmul(inputs,U_o) + tf.matmul(r *state, W_o) +b_o) # None(batch Size X State Size()
+            new_state=  z_t * state + (1-z_t)*o_t # None(batch Size X State Size()
+
             ### END YOUR CODE ###
         # For a GRU, the output and state are the same (N.B. this isn't true
         # for an LSTM, though we aren't using one of those in our
