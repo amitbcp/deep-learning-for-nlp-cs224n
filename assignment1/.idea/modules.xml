@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/../assignment3/.idea/assignment3.iml" filepath="$PROJECT_DIR$/../assignment3/.idea/assignment3.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../AbzoobaWorkspace/cg_text_normalization/.idea/cg_text_normalization.iml" filepath="$PROJECT_DIR$/../../AbzoobaWorkspace/cg_text_normalization/.idea/cg_text_normalization.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../data_post_processing/.idea/data_post_processing.iml" filepath="$PROJECT_DIR$/../../data_post_processing/.idea/data_post_processing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/.idea/sckit-learn usage.iml" filepath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/.idea/sckit-learn usage.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/.idea/tensorflow-mnist-tutorial.iml" filepath="$PROJECT_DIR$/../../tensorflow-mnist-tutorial/.idea/tensorflow-mnist-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../tensorflow_tutorials/.idea/tensorflow_tutorials.iml" filepath="$PROJECT_DIR$/../../tensorflow_tutorials/.idea/tensorflow_tutorials.iml" />
     </modules>

@@ -10,7 +10,6 @@
     <orderEntry type="module" module-name="cg_text_normalization" />
     <orderEntry type="module" module-name="tensorflow-mnist-tutorial" />
     <orderEntry type="module" module-name="data_post_processing" />
-    <orderEntry type="module" module-name="sckit-learn usage" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="Nosetests" />

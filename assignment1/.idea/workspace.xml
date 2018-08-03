@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556e3e0a-ced2-465b-b209-5b42830dde03" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/checkpoint" afterPath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/checkpoint" />
-      <change beforePath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/events.out.tfevents.1518361846.DESKTOP-5QR66RD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/events.out.tfevents.1518362072.DESKTOP-5QR66RD" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/model.ckpt.index" afterPath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/model.ckpt.index" />
-      <change beforePath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/model.ckpt.meta" afterPath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/model.ckpt.meta" />
-      <change beforePath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/projector_config.pbtxt" afterPath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/projector_config.pbtxt" />
-      <change beforePath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/tsne.png" afterPath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/tsne.png" />
-      <change beforePath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/word2vec.py" afterPath="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/word2vec.py" />
       <change beforePath="$PROJECT_DIR$/../../AbzoobaWorkspace/cg_text_normalization/src/pythonlib/capgroup/aaim/textprep/textbases.py" afterPath="$PROJECT_DIR$/../../AbzoobaWorkspace/cg_text_normalization/src/pythonlib/capgroup/aaim/textprep/textbases.py" />
       <change beforePath="$PROJECT_DIR$/.idea/assignment1.iml" afterPath="$PROJECT_DIR$/.idea/assignment1.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_3.1_convolutional_bigger_dropout.py" afterPath="$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_3.1_convolutional_bigger_dropout.py" />
       <change beforePath="$PROJECT_DIR$/../../tensorflow_tutorials/cs224n/word2vec/get_data.py" afterPath="$PROJECT_DIR$/../../tensorflow_tutorials/cs224n/word2vec/get_data.py" />
       <change beforePath="$PROJECT_DIR$/../../tensorflow_tutorials/cs224n/word2vec/utils.py" afterPath="$PROJECT_DIR$/../../tensorflow_tutorials/cs224n/word2vec/utils.py" />
       <change beforePath="$PROJECT_DIR$/../../tensorflow_tutorials/cs224n/word2vec/word2vec.py" afterPath="$PROJECT_DIR$/../../tensorflow_tutorials/cs224n/word2vec/word2vec.py" />
@@ -28,28 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="q2_rnn.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../assignment3/q2_rnn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="476" column="17" lean-forward="false" selection-start-line="476" selection-start-column="12" selection-end-line="476" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q2_neural.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q2_neural.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,10 +34,11 @@
     <findStrings>
       <find>tf</find>
       <find>log_dir</find>
+      <find>train_fn</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../tensorflow-mnist-tutorial" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,7 +70,6 @@
         <option value="$PROJECT_DIR$/../assignment2/q2_parser_model.py" />
         <option value="$PROJECT_DIR$/../assignment3/Test.py" />
         <option value="$PROJECT_DIR$/../assignment3/data_util.py" />
-        <option value="$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_3.1_convolutional_bigger_dropout.py" />
         <option value="$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_3.0_convolutional.py" />
         <option value="$PROJECT_DIR$/../../Test/Assignment.py" />
         <option value="$PROJECT_DIR$/../../Test/OutputPython.py" />
@@ -115,6 +87,8 @@
         <option value="$PROJECT_DIR$/../assignment3/q2_rnn.py" />
         <option value="$PROJECT_DIR$/../../Test/word2vec_tensorflow_tutorial.py" />
         <option value="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/word2vec.py" />
+        <option value="$PROJECT_DIR$/../../../JupyterNotebooks/machine_learning_with_Scikit_Learn_and_TensorFlow/Examples-TensorFlow/nmt/nmt/train.py" />
+        <option value="$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_3.1_convolutional_bigger_dropout.py" />
       </list>
     </option>
   </component>
@@ -159,29 +133,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="assignment1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sckit-learn usage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignment1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sckit-learn usage" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples-TensorFlow" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow-mnist-tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../JupyterNotebooks/machine_learning_with_Scikit_Learn_and_TensorFlow" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,25 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.word2vec">
-    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\amita\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sckit-learn usage" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="q2_parser_transitions" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,39 +255,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="word2vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="sckit-learn usage" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/word2vec.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Python.q2_parser_transitions" />
-      <item index="2" class="java.lang.String" itemvalue="Python.q2_rnn" />
-      <item index="3" class="java.lang.String" itemvalue="Python.q2_rnn_cell" />
-      <item index="4" class="java.lang.String" itemvalue="Python.textpprocessing" />
-      <item index="5" class="java.lang.String" itemvalue="Python.q3_gru" />
-      <item index="6" class="java.lang.String" itemvalue="Python.word2vec" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.q2_parser_transitions" />
+      <item index="1" class="java.lang.String" itemvalue="Python.q2_rnn" />
+      <item index="2" class="java.lang.String" itemvalue="Python.q2_rnn_cell" />
+      <item index="3" class="java.lang.String" itemvalue="Python.textpprocessing" />
+      <item index="4" class="java.lang.String" itemvalue="Python.q3_gru" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.word2vec" />
-        <item index="1" class="java.lang.String" itemvalue="Python.q3_gru" />
-        <item index="2" class="java.lang.String" itemvalue="Python.textpprocessing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.q2_rnn_cell" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.q3_gru" />
+        <item index="1" class="java.lang.String" itemvalue="Python.textpprocessing" />
+        <item index="2" class="java.lang.String" itemvalue="Python.q2_rnn_cell" />
       </list>
     </recent_temporary>
   </component>
@@ -390,15 +320,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20089285" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23065476" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33169934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5653595" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24925596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43464053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34313726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -418,17 +347,17 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33169934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5653595" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43464053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20089285" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23660715" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24925596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34313726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34313726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -501,78 +430,11 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="38" />
+      <option name="time" value="41" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/README_BATCHNORM.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-909">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/INSTALL.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_TF_layers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-439">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mlengine/digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mlengine/config-hptune-3.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_2.0_five_layers_sigmoid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="98" column="19" lean-forward="false" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment2/q1_softmax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1156">
-          <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment2/q2_parser_transitions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../assignment2/q2_parser_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -591,13 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1836">
           <caret line="108" column="42" lean-forward="false" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_4.0_batchnorm_five_layers_sigmoid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="90" column="71" lean-forward="false" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -650,38 +505,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_2.2_five_layers_relu_lrdecay_dropout.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_4.2_batchnorm_convolutional.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2754">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_2.1_five_layers_relu_lrdecay.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1972">
           <caret line="119" column="43" lean-forward="false" selection-start-line="119" selection-start-column="43" selection-end-line="119" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_3.0_convolutional.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="28" column="66" lean-forward="false" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_3.1_convolutional_bigger_dropout.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="78" column="39" lean-forward="false" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -803,14 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q2_neural.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -832,32 +651,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/metadata.tsv">
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/log/metadata.tsv" />
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/tsne.png" />
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/word2vec.py" />
+    <entry file="file://$PROJECT_DIR$/../assignment3/q2_rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="476" column="17" lean-forward="false" selection-start-line="476" selection-start-column="12" selection-end-line="476" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q2_neural.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/tsne.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/nmt/nmt/nmt.py" />
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/nmt/nmt/scripts/download_iwslt15.sh" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/argparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="1735" column="8" lean-forward="false" selection-start-line="1735" selection-start-column="8" selection-end-line="1735" selection-end-column="8" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/sckit-learn usage/Examples-TensorFlow/word2vec.py">
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/machine_learning_with_Scikit_Learn_and_TensorFlow/Examples-TensorFlow/nmt/nmt/model.py" />
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/machine_learning_with_Scikit_Learn_and_TensorFlow/Examples-TensorFlow/nmt/nmt/inference.py" />
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/machine_learning_with_Scikit_Learn_and_TensorFlow/Examples-TensorFlow/nmt/nmt/utils/nmt_utils.py" />
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/machine_learning_with_Scikit_Learn_and_TensorFlow/Examples-TensorFlow/nmt/nmt/nmt.py" />
+    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_2.2_five_layers_relu_lrdecay_dropout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        <state relative-caret-position="-272">
+          <caret line="124" column="61" lean-forward="false" selection-start-line="124" selection-start-column="60" selection-end-line="124" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/machine_learning_with_Scikit_Learn_and_TensorFlow/Examples-TensorFlow/nmt/nmt/train.py" />
+    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_3.0_convolutional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="98" column="35" lean-forward="false" selection-start-line="98" selection-start-column="22" selection-end-line="98" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_4.0_batchnorm_five_layers_sigmoid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="90" column="71" lean-forward="false" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../JupyterNotebooks/machine_learning_with_Scikit_Learn_and_TensorFlow/Examples-TensorFlow/nmt/nmt/utils/misc_utils.py" />
+    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_3.1_convolutional_bigger_dropout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="105" column="31" lean-forward="false" selection-start-line="105" selection-start-column="31" selection-end-line="105" selection-end-column="31" />
           <folding>
-            <element signature="e#75#90#0" expanded="true" />
+            <element signature="e#589#600#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment3/q2_rnn.py">
+    <entry file="file://$PROJECT_DIR$/../../tensorflow-mnist-tutorial/mnist_4.2_batchnorm_convolutional.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="476" column="17" lean-forward="false" selection-start-line="476" selection-start-column="12" selection-end-line="476" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
